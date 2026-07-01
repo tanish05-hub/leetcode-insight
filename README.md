@@ -155,7 +155,6 @@ This project was built to practice full-stack development with a real-world data
 - Building custom data visualizations with Recharts (pie, line, bar charts, and a custom heatmap grid)
 - Implementing a CSS custom-properties-based theming system for dark mode
 - Managing client-side persistence with `localStorage` (theme preference, search history)
-- Deploying a decoupled frontend/backend architecture (Vercel + Render)
 
 ---
 
